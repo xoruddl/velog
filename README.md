@@ -1,5 +1,6 @@
 # 📝 최신 블로그 글
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI 하네스 엔지니어링 정리](https://velog.io/@eta_kyung/OpenAI-%ED%95%98%EB%84%A4%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%A0%95%EB%A6%AC)
 - [Docker &lpar;5&rpar; - network](https://velog.io/@eta_kyung/Docker-5-network)
 - [Docker &lpar;4&rpar; - Dockerfile 구조](https://velog.io/@eta_kyung/Docker-4-)
 - [Docker &lpar;3&rpar; - 컨테이너 병렬 실행&lpar;서로 다른 버전의 PostgreSQL&rpar;](https://velog.io/@eta_kyung/Docker-3-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EB%B3%91%EB%A0%AC-%EC%8B%A4%ED%96%89%EC%84%9C%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EB%B2%84%EC%A0%84%EC%9D%98-PostgreSQL)
