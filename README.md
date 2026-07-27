@@ -1,5 +1,6 @@
 # 📝 최신 블로그 글
 <!-- BLOG-POST-LIST:START -->
+- [리눅스 &lpar;4&rpar; - SSH](https://velog.io/@eta_kyung/%EB%A6%AC%EB%88%85%EC%8A%A4-4-SSH)
 - [리눅스 &lpar;3&rpar; - 네트워크 설정](https://velog.io/@eta_kyung/%EB%A6%AC%EB%88%85%EC%8A%A4-3-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%A4%EC%A0%95)
 - [리눅스 &lpar;2&rpar; - vim](https://velog.io/@eta_kyung/%EB%A6%AC%EB%88%85%EC%8A%A4-2-vim)
 - [리눅스 &lpar;1&rpar; - 기초 명령어](https://velog.io/@eta_kyung/%EB%A6%AC%EB%88%85%EC%8A%A4-1-%EA%B8%B0%EC%B4%88-%EB%AA%85%EB%A0%B9%EC%96%B4)
@@ -9,5 +10,4 @@
 - [Docker &lpar;4&rpar; - Dockerfile 구조](https://velog.io/@eta_kyung/Docker-4-)
 - [Docker &lpar;3&rpar; - 컨테이너 병렬 실행&lpar;서로 다른 버전의 PostgreSQL&rpar;](https://velog.io/@eta_kyung/Docker-3-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EB%B3%91%EB%A0%AC-%EC%8B%A4%ED%96%89%EC%84%9C%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EB%B2%84%EC%A0%84%EC%9D%98-PostgreSQL)
 - [Docker &lpar;2&rpar; - 설치 및 간단한 컨테이너 실행](https://velog.io/@eta_kyung/Docker-2-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%8B%A4%ED%96%89)
-- [Docker &lpar;1&rpar; - 기본 용어](https://velog.io/@eta_kyung/Docker-1-%EA%B8%B0%EB%B3%B8-%EC%9A%A9%EC%96%B4)
 <!-- BLOG-POST-LIST:END -->
