@@ -1,5 +1,6 @@
 # 📝 최신 블로그 글
 <!-- BLOG-POST-LIST:START -->
+- [Spring &lpar;4&rpar; - Serving Web Content with Spring MVC](https://velog.io/@eta_kyung/Spring-4-Serving-Web-Content-with-Spring-MVC)
 - [Spring &lpar;*&rpar; - Spring mvc](https://velog.io/@eta_kyung/Spring-4-Spring-mvc)
 - [Spring &lpar;3&rpar; - Building a Hypermedia-Driven RESTful Web Service](https://velog.io/@eta_kyung/Spring-3-)
 - [Spring &lpar;2&rpar; - Consuming a RESTful Web Service](https://velog.io/@eta_kyung/Spring-2-Consuming-a-RESTful-Web-Service)
@@ -9,5 +10,4 @@
 - [네트워크 &lpar;5&rpar; - 스위치, 라우터](https://velog.io/@eta_kyung/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-5-%EC%8A%A4%EC%9C%84%EC%B9%98-%EB%9D%BC%EC%9A%B0%ED%84%B0)
 - [네트워크 &lpar;4&rpar; - 통신 기술](https://velog.io/@eta_kyung/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-4-%ED%86%B5%EC%8B%A0-%EA%B8%B0%EC%88%A0)
 - [네트워크 &lpar;3&rpar; - 네트워크 통신](https://velog.io/@eta_kyung/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-3-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%86%B5%EC%8B%A0)
-- [네트워크 &lpar;2&rpar; - 네트워크 연결과 구성요소](https://velog.io/@eta_kyung/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-2-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%97%B0%EA%B2%B0%EA%B3%BC-%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C)
 <!-- BLOG-POST-LIST:END -->
