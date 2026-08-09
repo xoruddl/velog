@@ -1,13 +1,13 @@
 # 📝 최신 블로그 글
 <!-- BLOG-POST-LIST:START -->
+- [JAVA &lpar;8&rpar; - 상속과 다형성](https://velog.io/@eta_kyung/JAVA-8-%EC%83%81%EC%86%8D%EA%B3%BC-%EB%8B%A4%ED%98%95%EC%84%B1)
+- [JAVA &lpar;7&rpar; - 클래스와 객체](https://velog.io/@eta_kyung/JAVA-7-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4)
+- [JAVA &lpar;6&rpar; - Wrapper 클래스와 오토박싱](https://velog.io/@eta_kyung/JAVA-6-Wrapper-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%98%A4%ED%86%A0%EB%B0%95%EC%8B%B1)
+- [JAVA &lpar;5&rpar; - Enum](https://velog.io/@eta_kyung/JAVA-5-Enum)
+- [JAVA &lpar;4&rpar; - 배열](https://velog.io/@eta_kyung/JAVA-4-%EB%B0%B0%EC%97%B4)
+- [JAVA &lpar;3&rpar; - 연산자와 제어문](https://velog.io/@eta_kyung/JAVA-3-%EC%97%B0%EC%82%B0%EC%9E%90%EC%99%80-%EC%A0%9C%EC%96%B4%EB%AC%B8)
+- [JAVA &lpar;2&rpar; - 변수, 자료형, 형변환](https://velog.io/@eta_kyung/JAVA-2-%EB%B3%80%EC%88%98-%EC%9E%90%EB%A3%8C%ED%98%95-%ED%98%95%EB%B3%80%ED%99%98)
+- [JAVA &lpar;1&rpar; - JVM 구조와 자바 실행 원리](https://velog.io/@eta_kyung/JAVA-1-JVM-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%9E%90%EB%B0%94-%EC%8B%A4%ED%96%89-%EC%9B%90%EB%A6%AC)
 - [Spring &lpar;5&rpar; - Building an Application with Spring Boot](https://velog.io/@eta_kyung/Spring-5-Building-an-Application-with-Spring-Boot)
 - [Spring &lpar;4&rpar; - Serving Web Content with Spring MVC](https://velog.io/@eta_kyung/Spring-4-Serving-Web-Content-with-Spring-MVC)
-- [Spring &lpar;*&rpar; - Spring mvc](https://velog.io/@eta_kyung/Spring-4-Spring-mvc)
-- [Spring &lpar;3&rpar; - Building a Hypermedia-Driven RESTful Web Service](https://velog.io/@eta_kyung/Spring-3-)
-- [Spring &lpar;2&rpar; - Consuming a RESTful Web Service](https://velog.io/@eta_kyung/Spring-2-Consuming-a-RESTful-Web-Service)
-- [IntelliJ - 스프링 스타터 추가 인식 안됨 해결](https://velog.io/@eta_kyung/IntelliJ-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%8A%A4%ED%83%80%ED%84%B0-%EC%B6%94%EA%B0%80-%EC%9D%B8%EC%8B%9D-%EC%95%88%EB%90%A8-%ED%95%B4%EA%B2%B0)
-- [Spring &lpar;1&rpar; - Building a RESTful Web Service](https://velog.io/@eta_kyung/Spring-1-Building-a-RESTful-Web-Service)
-- [네트워크 &lpar;6&rpar; - GNS3 실습](https://velog.io/@eta_kyung/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-6-)
-- [네트워크 &lpar;5&rpar; - 스위치, 라우터](https://velog.io/@eta_kyung/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-5-%EC%8A%A4%EC%9C%84%EC%B9%98-%EB%9D%BC%EC%9A%B0%ED%84%B0)
-- [네트워크 &lpar;4&rpar; - 통신 기술](https://velog.io/@eta_kyung/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-4-%ED%86%B5%EC%8B%A0-%EA%B8%B0%EC%88%A0)
 <!-- BLOG-POST-LIST:END -->
